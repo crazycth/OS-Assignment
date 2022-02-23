@@ -47,3 +47,12 @@
 ## 待实现
 
 * protectioin code 相应安全权限
+
+
+
+## 运行
+
+```shell
+!g++ terminal.cpp - std=c++2a && ./a.out
+```
+
