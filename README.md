@@ -53,7 +53,7 @@
 ## 运行
 
 ```shell
-cd Terminal
+!cd Terminal
 !g++ terminal.cpp - std=c++2a && ./a.out
 ```
 
