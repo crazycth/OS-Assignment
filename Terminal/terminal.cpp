@@ -383,7 +383,7 @@ struct user {
                     }
                     else
                     {
-                        cout<<"No such file or directory";
+                        cout<<"No such file or directory\n";
                     }
                 }
                 else cd(tem[1]);
